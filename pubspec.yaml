@@ -35,6 +35,7 @@ dependencies:
   connectivity: ^2.0.2 # Discover network connectivity and configure themselves accordingly
   http: ^0.12.2
   shared_preferences: ^0.5.12+4 # Local cache
+  flutter_clean_architecture: ^4.0.3
 
 dev_dependencies:
   flutter_test:
